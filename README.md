@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eoksen
 - 👀 I’m interested in bioinformatics and biotechnology
-- 🌱 I’m currently learning/improving my skills at biopython, numpy, matplotlib, snakemake, and more
+- 🌱 I’m currently building bioinformatics pipelines using Nextflow and dashboards using Dash
 - 💞️ I’m looking to collaborate on bioinformatics projects
 - 📫 How to reach me ethan.oksen@gmail.com
 
